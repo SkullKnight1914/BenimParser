@@ -1,0 +1,96 @@
+{
+  "id": "73568116",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "DevOps engineer/ Системный инженер",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1?host=hh.ru"
+  },
+  "salary": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Верхняя Первомайская улица",
+    "building": "51",
+    "lat": 55.799492,
+    "lng": 37.798044,
+    "description": null,
+    "raw": "Москва, Верхняя Первомайская улица, 51",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "contacts": null,
+  "description": "<p><strong>РТСофт Смарт Грид из Группы компаний РТСофт разрабатывает уникальные программные продукты для электроэнергетики </strong></p> <p><strong>Объекты внедрения: крупные энергокомпании (Системный Оператор, РусГидро, Росэнергоатом, Интер Рао, Россети и др.) и промышленные предприятия (Фосагро, Транснефть, Газпромнефть и др.) </strong></p> <p>Мы устойчиво расширяемся (сейчас в штате 70 инженеров), поэтому ищем в свою команду DevOps engineer</p> <p> </p> <p><strong>Твоими задачами будут: </strong></p> <p>✅ развитие и поддержка инфраструктуры департамента разработки;</p> <p>✅ автоматизация процессов разработки, сборки и выпуска продуктов (CI/CD);</p> <p>✅ изучение особенностей разрабатываемых продуктов, подбор оптимальной конфигурации как тестовой, так и продуктовой инфраструктуры;</p> <p>✅ выбор и внедрение современных средств DevOps;</p> <p>✅ развертывание и поддержка ПО в продуктовой среде;</p> <p>✅мониторинг работоспособности сервисов и инфраструктуры.</p> <p> </p> <p><strong>Если ты имеешь: </strong></p> <p>✅ навыки администрирования ОС Linux, Windows Server;</p> <p>✅ опыт администрирования баз данных (SQL, NoSQL);</p> <p>✅ знание технологий виртуализации и контейнеризации;</p> <p>✅ знание принципов и технологий обеспечения отказоустойчивости;</p> <p>✅знание английского языка (чтение технической документации);</p> <p>✅способность решать технические проблемы;</p> <p>✅желание проявлять самостоятельность и нести ответственность за результат и качество.</p> <p><strong>Еще лучше, если у тебя есть: </strong></p> <p>✅ знание инструментов управления конфигурацией (Ansible, Chef, Puppet или др.);</p> <p>✅ знание скриптовых языков;</p> <p>✅ навыки работы с системами мониторинга.</p> <p>❗️<strong>Стек: </strong>Ansible, GitLab CI, Docker, Docker-Compose, MSSQL, PostgreSQL, MongoDB, Redis, Python, .Net Core, Golang</p> <p>Виртуализация: ESXi, HyperV</p> <p>Мониторинг: InfluxDB, Grafana, Zabbix</p> <p> </p> <p><strong>Мы предлагаем: </strong></p> <p>✔работу в современной гибкой среде, где есть возможность самостоятельно принимать решения;</p> <p>✔дружескую открытую атмосферу, где приветствуется инициативность и выход за рамки;</p> <p>✔развитие через новые и сложные задачи;</p> <p>✔достойную белую заработную плату, перспективы роста;</p> <p>✔возможности обучения и обмена опытом за счет компании (семинары, конференции, тренинги, в том числе и по индивидуальной программе);</p> <p>✔медицинскую страховку (ДМС).</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "7452",
+    "name": "РТСофт",
+    "url": "https://api.hh.ru/employers/7452?host=hh.ru",
+    "alternate_url": "https://hh.ru/employer/7452",
+    "logo_urls": {
+      "240": "https://hhcdn.ru/employer-logo/492587.jpeg",
+      "original": "https://hhcdn.ru/employer-logo-original/230531.JPG",
+      "90": "https://hhcdn.ru/employer-logo/492586.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=7452&host=hh.ru",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2023-08-14T13:35:50+0300",
+  "created_at": "2023-08-14T13:35:50+0300",
+  "initial_created_at": "2022-12-09T10:45:21+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=73568116",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/73568116",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": []
+}

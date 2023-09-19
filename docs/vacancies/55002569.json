@@ -1,0 +1,115 @@
+{
+  "id": "55002569",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер DevOps",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1?host=hh.ru"
+  },
+  "salary": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "1-й Красногвардейский проезд",
+    "building": "15",
+    "lat": 55.75052,
+    "lng": 37.539401,
+    "description": null,
+    "raw": "Москва, 1-й Красногвардейский проезд, 15",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": false,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "contacts": null,
+  "description": "<p><strong>В связи с развитием компании &quot;Красное и Белое&quot; и появлением больших и интересных проектов, пригласим к себе в команду инженера DevOps. Прекрасный офис в «Москва-Сити», динамично развивающаяся компания федерального значения, достойная компенсация.</strong></p> <p><strong>Обязанности:</strong></p> <ul> <li>Настройка, поддержка и развитие конвейера непрерывной интеграции и доставки на базе Gitlab CI для вывода приложений в Kubernetes (приложения: java, phyton).</li> <li>Поддержка кластеров Kubernetes.</li> <li>Создание и изменение Docker образов для разработки.</li> <li>Поддержка инфраструктурных сервисов.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Знание Linux, Kubernetes, Gitlab CI, Docker, Helm, Ansible.</li> <li>Написание скриптов (на Bash, Phyton, PowerShell).</li> <li>Английский язык на продвинутом уровне для чтения технической документации.</li> <li>Желание работать в большой, динамично растущей компании.</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>График работы: понедельник-пятница, с 9.00 до 18.00.</li> <li>Место работы (офис): Москва Сити, башня Меркурий.</li> <li>Официальное трудоустройство.</li> <li>Официальная заработная плата три раза в месяц на банковскую карту.</li> <li><strong>Уровень заработной платы обсуждается индивидуально по результатам оценки компетенций.</strong></li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Gitlab CI"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Kubernetes"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Bash"
+    },
+    {
+      "name": "Python"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "160",
+      "name": "DevOps-инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1035394",
+    "name": "Красное & Белое, розничная сеть",
+    "url": "https://api.hh.ru/employers/1035394?host=hh.ru",
+    "alternate_url": "https://hh.ru/employer/1035394",
+    "logo_urls": {
+      "240": "https://hhcdn.ru/employer-logo/706155.jpeg",
+      "90": "https://hhcdn.ru/employer-logo/706154.jpeg",
+      "original": "https://hhcdn.ru/employer-logo-original/90459.jpg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1035394&host=hh.ru",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2023-09-04T07:34:15+0300",
+  "created_at": "2023-09-04T07:34:15+0300",
+  "initial_created_at": "2022-04-22T13:02:13+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=55002569",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/55002569",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": []
+}

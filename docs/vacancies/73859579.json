@@ -1,0 +1,137 @@
+{
+  "id": "73859579",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный администратор Linux/DevOps",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1?host=hh.ru"
+  },
+  "salary": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Большая Новодмитровская улица",
+    "building": "23с5",
+    "lat": 55.803519,
+    "lng": 37.584353,
+    "description": null,
+    "raw": "Москва, Большая Новодмитровская улица, 23с5",
+    "metro": {
+      "station_name": "Дмитровская",
+      "line_name": "Серпуховско-Тимирязевская",
+      "station_id": "9.35",
+      "line_id": "9",
+      "lat": 55.808056,
+      "lng": 37.581734
+    },
+    "metro_stations": [
+      {
+        "station_name": "Дмитровская",
+        "line_name": "Серпуховско-Тимирязевская",
+        "station_id": "9.35",
+        "line_id": "9",
+        "lat": 55.808056,
+        "lng": 37.581734
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "contacts": null,
+  "description": "<p><strong>Иви — один из лидеров рынка онлайн-кинотеатров в России и странах СНГ.</strong><br /><br /><strong>Мы работаем на рынке профессионального легального видеоконтента уже 13 лет.</strong></p> <p><strong>Быть в команде Иви — это каждый день решать интересные задачи в атмосфере свободы, доверия, открытости, а также реализовывать проекты, повышая культуру и качество жизни людей.</strong></p> <p>Разыскиваем коллегу в команду для участия в настройке процессов, технических (CI/CD) и в части взаимодействия с коллегами. Активное участие в разворачивании и эксплуатации k8s. Помогаем командам разработки строить CI/CD-пайплайны. Некоторые из нас это делают в составе кросс-команд, другие помогают командам, оставшиеся обеспечивают всех нас необходимыми приложениями и инфраструктурой.</p> <p><strong>В команде Иви тебе предстоит:</strong></p> <ul> <li>Развивать и настраивать процессы ci/cd.</li> <li>Периодически проводить аудит используемого стека технологий;</li> <li>Планировать и участвовать в рефакторинге процессов, инфраструктуры, приложений;</li> <li>Заниматься сопровождением сервисов от разработки до эксплуатации, участвовать в эксплуатации;</li> <li>Дорабатывать текущие и разрабатывать новые сценарии конфигурирования серверов и приложений;</li> <li>Заниматься администрированием приложений по результатам выполненной работы подготавливать документацию, если это необходимо;</li> </ul> <p><strong>Иви ожидает от кандидата</strong>:</p> <ul> <li>Положительный и продолжительный опыт работы CI/CD-системами (у нас gitlab и jenkins);</li> <li>Умение хорошо готовить docker;</li> <li>Опыт программирования на скриптовых языках (shell, python);</li> <li>Опыт администрирования linux и веб-приложений</li> <li>Понимание сетевые технологии TCP/IP;</li> <li>Опыт работы с системами управления версиями (у нас git)</li> <li>Опыт работы с системами управления конфигурациями;</li> </ul> <p>​​​​​​​<strong>Как все устроено в Иви:</strong></p> <ul> <li>Учим команды использовать контейнеры (docker) для подготовки разрабатываемых приложений, осваиваем использование k8s для оркестрации. Используем Ubuntu, Linux.</li> <li>Храним код и разрабатываем pipeline-ы с помощью gitlab+artifactory.</li> <li>Для мониторинга серверов и сервисов используем zabbix и statsd, заправляем grafana.</li> <li>Наши сервисы написаны на python, golang и немного php и java.</li> <li>Любим и активно используем jenkins для решения самых разнообразных задач.</li> <li>Используем много open source (и не только) приложений: nginx, redis, postgresql, mongodb, rabbitmq, clickhouse, openstack, gitlab, kafka, hdfs, jira, opennebula.</li> </ul> <p><strong>Ну и самое приятное. Со своей стороны Иви обещает с первых дней:</strong></p> <ul> <li>Официальное трудоустройство и конкурентную заработную плату.</li> <li><strong>Гибридный формат работы или желание переехать в Москву из регионов России.</strong></li> <li>Уютный и современный офис в шаговой доступности от станций метро Дмитровская, Савеловская, рядом с Флаконом и Хлебозаводом.</li> <li>Предоставление современной рабочей техники, дополнительный монитор и многое другое для комфортной работы (MacBook)</li> <li>Гибкое начало рабочего дня по согласованию с руководителем<em>.</em></li> <li>Заботу о здоровье: возможность получать консультации психолога, юриста, финансового консультанта и специалиста по ЗОЖ, а после испытательного срока - ДМС (со стоматологией) и страховку для выезда за рубеж.</li> <li>Поддержку в обмене знаниями и идеями: поощряем выступления на митапах и помогаем с подготовкой докладов.</li> <li>Бесплатную подписку на сервис корпоративных скидок и предложений BestBenefits, а также доступ к онлайн-библиотеке издательства «МИФ».</li> <li>Вишенка на торте: специальное предложение по подписке Иви.</li> </ul> <p><strong>Увидимся, твой Иви!</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Nginx"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Redis"
+    },
+    {
+      "name": "Gitlab CI"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "136929",
+    "name": "Иви",
+    "url": "https://api.hh.ru/employers/136929?host=hh.ru",
+    "alternate_url": "https://hh.ru/employer/136929",
+    "logo_urls": {
+      "original": "https://hhcdn.ru/employer-logo-original/1011108.png",
+      "90": "https://hhcdn.ru/employer-logo/5665204.png",
+      "240": "https://hhcdn.ru/employer-logo/5665205.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=136929&host=hh.ru",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2023-08-15T21:23:31+0300",
+  "created_at": "2023-08-15T21:23:31+0300",
+  "initial_created_at": "2022-12-15T13:45:38+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=73859579",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/73859579",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": []
+}

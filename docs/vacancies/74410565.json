@@ -1,0 +1,86 @@
+{
+  "id": "74410565",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер DevOps (Системный архитектор)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1?host=hh.ru"
+  },
+  "salary": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "contacts": null,
+  "description": "<p>Задачи:</p> <ol> <li>Разработка средств автоматизации рутинных операций, развертывания новых и изменения конфигурации эксплуатируемых ИС</li> <li>Автоматизация процессов CI/CD</li> <li>Реализация и контроль исполнения планов резервного копирования в соответствии с показателями RTO и RPO</li> <li>Разработка регламентов и инструкций выполнения стандартных операций/сценариев</li> <li>Взаимодействие с экспертом по технологическим вопросам для поиска и исправления проблем, внесения изменения в конфигурацию ИС</li> <li>Работа с системой сервис-деск заказчика</li> <li>Непосредственное участие в процессах разрешения инцидентов при условии предоставления доступа к продуктивному ландшафту или консультирование</li> </ol> <p>Требования:</p> <ol> <li>Наличие сертификата «1С:Эксплуататор крупных информационных систем» или способность пройти сертификацию в течение испытательного срока</li> <li>Опыт работы с платформой 1С 8 в качестве разработчика или администратора не менее 2 лет</li> <li>Практический опыт администрирования систем на платформе 1С 8, построенных с использования ОС семейства Linux, СУБД семейства PostgreSQL, веб-серверов Apache HTTP и nginx</li> <li>Практические навыки работы с инструментами для реализации CI/CD: GitLab, Jenkins, Ansible и т.п.</li> <li>Понимание сути процессов ГОСТ Р ИСО/МЭК 20000 – управление: инцидентами, проблемами, сервисными запросами, мощностями, доступностью и непрерывностью предоставления услуг</li> <li>Опыт администрирования информационных систем, размещенных в виртуальной среде ЦОД</li> <li>Опыт администрирования масштабных, высоконагруженных информационных систем, с количеством серверов более 10 и требуемым уровнем доступности &gt; 99%, при условии работы 24*7</li> <li>Опыт автоматизации рутинных задач администрирования</li> </ol> <p>Желательно:</p> <ol> <li>Знание и практические навыки использования технологии 1С:Фреш, 1С:Исполнитель</li> <li>Знание и практические навыки использования компонент КИП, прежде всего ЦКК и ЦА, а также других механизмов автоматизации рутинных задач администрирования и расследования проблем</li> <li>Наличие сертификатов, подтверждающих уровень квалификации систем, построенных с использования ОС семейства Linux и СУБД семейства PostgreSQL: LPIС, DBA1-10 и т.п.</li> <li>Знание технологий сбора и анализа технологической информации, стеки: ELK, SPLUNK и т.п.</li> <li>Знание технологий мониторинга функционирования системы: Zabbix, Prometheus и т.п.</li> <li>Опыт работы в составе команды администраторов, в роли ведущего специалиста</li> <li>Опыт создания защищенных каналов связи с использованием vpn, tls</li> </ol> <p>Условия:</p> <ol> <li>Заработная плата по результатам собеседования</li> <li>Достойный соц. пакет</li> <li>Режим работы: полный рабочий день</li> </ol>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "160",
+      "name": "DevOps-инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "882",
+    "name": "1С",
+    "url": "https://api.hh.ru/employers/882?host=hh.ru",
+    "alternate_url": "https://hh.ru/employer/882",
+    "logo_urls": {
+      "240": "https://hhcdn.ru/employer-logo/381444.png",
+      "original": "https://hhcdn.ru/employer-logo-original/233296.bmp",
+      "90": "https://hhcdn.ru/employer-logo/308587.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=882&host=hh.ru",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2023-09-04T23:14:04+0300",
+  "created_at": "2023-09-04T23:14:04+0300",
+  "initial_created_at": "2022-12-30T13:02:43+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=74410565",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/74410565",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": []
+}

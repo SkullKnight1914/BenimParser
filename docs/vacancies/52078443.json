@@ -1,0 +1,89 @@
+{
+  "id": "52078443",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Devops",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1?host=hh.ru"
+  },
+  "salary": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": false,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": {
+    "id": "3529-3529-it",
+    "name": "Сбер. IT"
+  },
+  "contacts": null,
+  "description": "<p>Ищем коллегу на уникальные и интересные проекты Сбербанка в Управлении Маркетинга:</p> <ul> <li>Развитие канала ЕФС для Веб-сайта sberbank.ru;</li> <li>Развитие веб-сайта sberbank.ru;</li> <li>Развитие веб-сайта sber.ru.</li> </ul> <p> </p> <p><strong>Задачи:</strong></p> <ul> <li>Сопровождение стендов разработки: RHEL, NGINX. Docker, OpenShift, Jenkins;</li> <li>Разработка средств автоматизации процессов сборки, развёртывания.</li> </ul> <p> </p> <p><strong>Обязанности:</strong></p> <ul> <li>Проектирование, развертывание и сопровождение инфраструктуры разработки. Автоматизация процессов сборки, развёртывания;</li> <li>Установка, поддержка тестовых стендов;</li> <li>Участие в проектах по повышению производительности и повышения отказоустойчивости;</li> <li>Создание и развитие инструментов мониторинга систем и управления внутренней инфраструктурой;</li> <li>Поиск узких мест архитектуры и участие в разработке архитектурных решений;</li> <li>Работа в качестве эксперта на 3-ей линии поддержки.</li> </ul> <p> </p> <p><strong>Требования:</strong></p> <ul> <li>Знание Linux RedHat, Nginx на уровне администратора;</li> <li>Опыт сопровождения стендов разработки, продвинутый уровень владения скриптовыми языками программирования для целей автоматизации - bash, Ansible, python, groovy, etc;</li> <li>Опыт работы с серверами приложений Enterprise уровня - IBM Web Sphere, WildFly;</li> <li>Умение читать код на Java/JavaScript приветствуется;</li> <li>Опыт работы с high load системами приветствуется;</li> <li>Опыт работы с Oracle.</li> </ul> <p> </p> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Работу в лофт-офисе на м.Тульской;</li> <li>Трудоустройство согласно ТК РФ;</li> <li>Учиться у лучших в своей сфере;</li> <li>Пройти все обучения, которые есть в банке (а их много);</li> <li>Прочитать все книги из корпоративной библиотеки;</li> <li>Посетить все семинары и лекции (а их тоже не мало);</li> <li>Провести лекцию на тему где вы очень круты;</li> <li>Получить ДМС и льготную ипотеку.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3529",
+    "name": "СБЕР",
+    "url": "https://api.hh.ru/employers/3529?host=hh.ru",
+    "alternate_url": "https://hh.ru/employer/3529",
+    "logo_urls": {
+      "240": "https://hhcdn.ru/employer-logo/5756157.png",
+      "90": "https://hhcdn.ru/employer-logo/5756156.png",
+      "original": "https://hhcdn.ru/employer-logo-original/1033849.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3529&host=hh.ru",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2023-09-04T08:41:23+0300",
+  "created_at": "2023-09-04T08:41:23+0300",
+  "initial_created_at": "2022-02-03T15:09:25+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=52078443",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/52078443",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": []
+}

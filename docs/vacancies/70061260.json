@@ -1,0 +1,127 @@
+{
+  "id": "70061260",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "DevOps инженер по поддержке прикладного решения 1С:ЗУП",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1?host=hh.ru"
+  },
+  "salary": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": null,
+    "street": null,
+    "building": null,
+    "lat": null,
+    "lng": null,
+    "description": null,
+    "raw": "Москва, Дмитровское шоссе, 9 (м. Тимирязевская)",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "flexible",
+    "name": "Гибкий график"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong></p> <p>Автоматизация обновления учетного ядра, сборки, тестирования, публикации релизов прикладного решения.</p> <p><strong>Требования:</strong></p> <ul> <li>Опыт разработки на платформе 1С</li> <li>Знание одного из скриптовых языков (Python, 1С: Исполнитель)</li> <li>Построение сборочных Pipelines с использование GitLab CI или Jenkins</li> </ul> <p><em><strong>Желательно:</strong></em></p> <ul> <li>Опыт разработки плагинов для EDT</li> <li>Работа с Docker</li> <li>Опыт администрирования MSSQL или PostgreSQL</li> <li>Администрирование Linux</li> <li>Опыт работы с OpenStack</li> <li>Опыт работы со Сценарным тестированием или Vanessa</li> <li>Знание технологии библиотечной разработки</li> </ul> <p><strong>Мы готовы предложить:</strong></p> <ul> <li>Возможность профессионального и карьерного роста вместе с ростом команды;</li> <li>Современный комфортный офис в 5-ти минутах ходьбы от м. Тимирязевская;</li> <li>Зоны отдыха и кофе-поинты;</li> <li>Гибкий график;</li> <li>Возможность удаленной работы;</li> <li>Стабильную и конкурентоспособную заработную плату;</li> <li>Расширенный социальный пакет (хорошо решены вопросы медицинского обслуживания (страхования), питания, проезда, спорта);</li> <li>Бесплатную охраняемую парковку на территории офиса.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "1С: Предприятие 8"
+    },
+    {
+      "name": "1С программирование"
+    },
+    {
+      "name": "1С:Исполнитель"
+    },
+    {
+      "name": "1С:EDT"
+    },
+    {
+      "name": "Vanessa"
+    },
+    {
+      "name": "Jenkins"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "MSSQL"
+    },
+    {
+      "name": "Python"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "882",
+    "name": "1С",
+    "url": "https://api.hh.ru/employers/882?host=hh.ru",
+    "alternate_url": "https://hh.ru/employer/882",
+    "logo_urls": {
+      "240": "https://hhcdn.ru/employer-logo/381444.png",
+      "original": "https://hhcdn.ru/employer-logo-original/233296.bmp",
+      "90": "https://hhcdn.ru/employer-logo/308587.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=882&host=hh.ru",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2023-09-04T16:19:08+0300",
+  "created_at": "2023-09-04T16:19:08+0300",
+  "initial_created_at": "2022-09-20T21:22:58+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=70061260",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/70061260",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": []
+}
